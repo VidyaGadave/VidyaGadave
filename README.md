@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VidyaGadave
-- 👀 I’m interested in Dataware house, ETL, Data analytics
+- 👀 I’m interested in Data analytics, ETL and databases
 - 🌱 I’m currently learning Data science
 
 
